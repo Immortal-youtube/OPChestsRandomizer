@@ -1,0 +1,7 @@
+name: OPChestsRandomizer
+version: '${project.version}'
+main: me.immortal.opchestsrandomizer.OPChestsRandomizer
+api-version: '1.20'
+commands:
+  activateOPChests:
+    description: activates the plugin
